@@ -62,12 +62,12 @@ const ContactCTA = () => {
                 </div>
                 <div>
                   <p className="font-semibold text-primary">Call Us</p>
-                  <p className="text-gray-600">+91 98765 43210</p>
+                  <p className="text-gray-600">+91 9508635494</p>
                 </div>
               </motion.a>
 
               <motion.a
-                href="mailto:info@shreeramproperties.com"
+                href="mailto:suraj.logician@gmail.com"
                 whileHover={{ x: 10 }}
                 className="flex items-center gap-4 p-4 rounded-lg hover:bg-accent/10 transition-all"
               >
@@ -76,12 +76,12 @@ const ContactCTA = () => {
                 </div>
                 <div>
                   <p className="font-semibold text-primary">Email Us</p>
-                  <p className="text-gray-600">info@shreeramproperties.com</p>
+                  <p className="text-gray-600">suraj.logician@gmail.com</p>
                 </div>
               </motion.a>
 
               <motion.a
-                href="https://wa.me/919876543210"
+                href="https://wa.me/919508635494"
                 target="_blank"
                 rel="noopener noreferrer"
                 whileHover={{ x: 10 }}
