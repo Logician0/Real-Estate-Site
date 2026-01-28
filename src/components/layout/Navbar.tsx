@@ -50,10 +50,10 @@ const Navbar = () => {
 
         {/* CTA Buttons */}
         <div className="hidden sm:flex items-center space-x-4">
-          <a href="tel:+919876543210" className="text-primary hover:text-accent font-semibold">
+          <a href="tel:+919508635494" className="text-primary hover:text-accent font-semibold">
             📞
           </a>
-          <a href="https://wa.me/919876543210" target="_blank" rel="noopener noreferrer" className="text-primary hover:text-accent font-semibold">
+          <a href="https://wa.me/919508635494" target="_blank" rel="noopener noreferrer" className="text-primary hover:text-accent font-semibold">
             💬
           </a>
           <button className="btn-accent text-sm">

@@ -81,7 +81,7 @@ const About = () => {
             </p>
 
             <motion.a
-              href="https://wa.me/919876543210"
+              href="https://wa.me/919508635494"
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
               className="btn-accent inline-block"

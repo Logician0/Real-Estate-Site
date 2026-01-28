@@ -173,18 +173,18 @@ const PropertyDetail: React.FC<PropertyDetailProps> = ({ property }) => {
               <h3 className="text-2xl font-bold mb-6">Quick Contact</h3>
 
               <a
-                href="tel:+919876543210"
+                href="tel:+919508635494"
                 className="flex items-center gap-4 p-4 bg-white/10 rounded-lg hover:bg-white/20 transition-all"
               >
                 <span className="text-2xl">📞</span>
                 <div>
                   <p className="text-sm text-gray-300">Call</p>
-                  <p className="font-semibold">+91 98765 43210</p>
+                  <p className="font-semibold">+91 9508635494</p>
                 </div>
               </a>
 
               <a
-                href="https://wa.me/919876543210"
+                href="https://wa.me/919508635494"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-4 p-4 bg-white/10 rounded-lg hover:bg-white/20 transition-all"
@@ -197,13 +197,13 @@ const PropertyDetail: React.FC<PropertyDetailProps> = ({ property }) => {
               </a>
 
               <a
-                href="mailto:info@shreeramproperties.com"
+                href="mailto:suraj.logician@gmail.com"
                 className="flex items-center gap-4 p-4 bg-white/10 rounded-lg hover:bg-white/20 transition-all"
               >
                 <span className="text-2xl">📧</span>
                 <div>
                   <p className="text-sm text-gray-300">Email</p>
-                  <p className="font-semibold">info@properties.com</p>
+                  <p className="font-semibold">suraj.logician@gmail.com</p>
                 </div>
               </a>
             </div>
@@ -242,7 +242,7 @@ const PropertyDetail: React.FC<PropertyDetailProps> = ({ property }) => {
             Experience this luxury property in person. Our expert agents are ready to show you around and answer all your questions.
           </p>
           <motion.a
-            href="https://wa.me/919876543210"
+            href="https://wa.me/919508635494"
             target="_blank"
             rel="noopener noreferrer"
             whileHover={{ scale: 1.05 }}

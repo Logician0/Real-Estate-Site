@@ -53,7 +53,7 @@ const ContactCTA = () => {
             {/* Contact Methods */}
             <motion.div variants={itemVariants} className="space-y-4">
               <motion.a
-                href="tel:+919876543210"
+                href="tel:+919508635494"
                 whileHover={{ x: 10 }}
                 className="flex items-center gap-4 p-4 rounded-lg hover:bg-accent/10 transition-all"
               >

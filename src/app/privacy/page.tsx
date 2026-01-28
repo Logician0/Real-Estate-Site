@@ -51,8 +51,8 @@ export default function PrivacyPage() {
               If you have any questions about this Privacy Policy, please contact us at:
             </p>
             <div className="mt-4 p-4 bg-secondary rounded-lg">
-              <p>Email: privacy@shreeramproperties.com</p>
-              <p>Phone: +91 98765 43210</p>
+              <p>Email: suraj.logician@gmail.com</p>
+              <p>Phone: +91 95086 35494</p>
               <p>Address: 123 Premium Street, Business District, City</p>
             </div>
           </section>

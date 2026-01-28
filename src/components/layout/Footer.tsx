@@ -147,11 +147,11 @@ const Footer = () => {
             <div>
               <h5 className="font-semibold mb-1">Contact</h5>
               <p className="text-gray-400 text-sm">
-                <a href="tel:+919876543210" className="hover:text-accent transition-colors">
-                  +91 98765 43210
+                <a href="tel:+919508635494" className="hover:text-accent transition-colors">
+                  +91 9508635494
                 </a><br />
-                <a href="mailto:info@shreeramproperties.com" className="hover:text-accent transition-colors">
-                  info@shreeramproperties.com
+                <a href="mailto:suraj.logician@gmail.com" className="hover:text-accent transition-colors">
+                  suraj.logician@gmail.com
                 </a>
               </p>
             </div>
